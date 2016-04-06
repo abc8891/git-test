@@ -1,9 +1,7 @@
 package ru.zti.test;
 
 public class Main {
-
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 		System.out.println("Hello from Git Hub!!!");
-		
-   }
+    }
 }
